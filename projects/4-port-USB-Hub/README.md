@@ -1,7 +1,7 @@
 ---
 name: "Felix Gao"
 slack_handle: "@Felix Gao"
-github_handle: "@API-Troubles"
+github_handle: "@felixgao-0"
 tutorial: https://jams.hackclub.com/batch/usb-hub
 ---
 
@@ -17,3 +17,10 @@ It will be a while before I'm able to 3D print a cover for it (if I ever do), an
 The design process was simple enough. I followed the tutorial up until the whole 4 ports instead of 2 things. 
 It became the most confusing laying out the PCB parts, I was just YEETING things across the design panel. 
 Recommendation to whoever reads this, your schematic is very useful haha.
+
+
+## Information for Arcade
+
+This was a blast making this for Arcade! I hope my PC doesn't explode using this (/hj). I would have never touched PCB with my life before this (mainly due to the feeling of it being too complicated and expensive). Yall have seriously changed my life!
+
+To experience this project, you can upload these files to JLCPCB and buy it for yourself (I'm not responsible for ur PC exploding, not that it would hopefully /hj). If you actually do try it let me know what happens!
